@@ -1,22 +1,57 @@
 <template>
-  <h1 v-if="" @click="handler(arg, event)"></h1>
+  <router-link
+    class="event-link"
+    :to="{ name: 'event-show', params: { id: '1' } }"
+  >
+    <div class="event-card -shadow">
+      <span class="eyebrow">@{{ event.time }} on {{ event.date }}</span>
+      <h4 class="title">{{ event.title }}</h4>
+      <span>{{ event.attendess.length }} attending</span>
+    </div>
+  </router-link>
 </template>
 
 <script>
-import { libName } from 'libName';
 export default {
   props: {
     propName: {
-      type: Number,
-      default:
-    },
+      type: Number
+    }
   },
   data() {
     return {
-      key: value
+      event: {
+        id: 1,
+        title: 'Beach Cleanup',
+        date: 'Tues Jul 28, 2020',
+        time: '07:12',
+        attendess: [
+          { id: 'abc123', name: 'Adam Jahr' },
+          { id: 'defd147', name: 'Gregg Pollack' }
+        ]
+      }
     }
-  },
+  }
 }
 </script>
 
-<style></style>
+<style scoped>
+.event-card {
+  padding: 20px;
+  margin-bottom: 24px;
+  transition: all 0.2s linear;
+  cursor: pointer;
+}
+.event-card:hover {
+  transform: scale(1.01);
+  box-shadow: 0 3px 12px 0 rgba(0, 0, 0, 0.2), 0 1px 15px 0 rgba(0, 0, 0, 0.19);
+}
+.event-card > .title {
+  margin: 0;
+}
+.event-link {
+  color: black;
+  text-decoration: none;
+  font-weight: 100;
+}
+</style>
