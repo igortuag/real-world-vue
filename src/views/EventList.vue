@@ -2,7 +2,8 @@
   <div>
     <h1>Event Listing</h1>
 
-    <EventCard></EventCard>
+    <EventCard />
+    <BaseIcon />
   </div>
 </template>
 <script>
