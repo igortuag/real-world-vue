@@ -79,7 +79,7 @@ export default {
         .dispatch('createEvent', this.event)
         .then(() => {
           this.$router.push({
-            name: 'event=show',
+            name: 'event-show',
             params: { id: this.event.id }
           })
           this.event = this.createFreshEventObject()
@@ -90,7 +90,7 @@ export default {
     },
     createFreshEventObject() {
       const user = this.$store.state.user
-      const id = Math.flor(Math.random() * 10000000)
+      const id = Math.floor(Math.random() * 10000000)
 
       return {
         id: id,
@@ -109,7 +109,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 .field {
   margin-bottom: 24px;
 }
