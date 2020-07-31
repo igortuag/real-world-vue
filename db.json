@@ -206,6 +206,60 @@
       "date": "",
       "time": "20:00",
       "attendees": []
+    },
+    {
+      "id": 7779101,
+      "user": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "title": "teste",
+      "description": "teste",
+      "location": "testes",
+      "date": "",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 2197356,
+      "user": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "title": "32",
+      "description": "123",
+      "location": "1231",
+      "date": "",
+      "time": "22:00",
+      "attendees": []
+    },
+    {
+      "id": 8498118,
+      "user": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "title": "success",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
