@@ -260,6 +260,24 @@
       "date": "",
       "time": "",
       "attendees": []
+    },
+    {
+      "id": 9134105,
+      "user": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "title": "teste",
+      "description": "tset",
+      "location": "tes",
+      "date": "2020-08-05T21:20:00.000Z",
+      "time": "21:00",
+      "attendees": []
     }
   ]
 }
