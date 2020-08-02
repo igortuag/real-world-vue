@@ -4,297 +4,223 @@
       "id": 1,
       "user": {
         "id": "abc123",
-        "name": "Adam"
+        "name": "Igor Tuag"
       },
       "category": "animal welfare",
       "organizer": "Adam",
       "title": "Cat Cabaret",
       "description": "Yay felines!",
       "location": "Meow Town",
-      "date": "2019-01-03T21:54:00.000Z",
+      "date": "2020-08-03T21:54:00.000Z",
       "time": "2:00",
-      "attendees": []
+      "attendees": [
+        "Bob Brown",
+        "Maria Red",
+        "Jhon Blue"
+      ]
     },
     {
-      "id": 2,
+      "id": 9236962,
       "user": {
         "id": "abc123",
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Kitty Cluster",
-      "description": "Yay cats!",
-      "location": "Catlandia",
-      "date": "2019-01-31T22:09:00.000Z",
-      "time": "7:00",
-      "attendees": []
-    },
-    {
-      "id": 3,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Puppy Parade",
-      "description": "Yay pups!",
-      "location": "Puptown ",
-      "date": "2019-02-02T23:27:00.000Z",
-      "time": "1:00",
-      "attendees": []
-    },
-    {
-      "id": 1,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Cat Cabaret",
-      "description": "Yay felines!",
-      "location": "Meow Town",
-      "date": "2019-01-03T21:54:00.000Z",
-      "time": "2:00",
-      "attendees": []
-    },
-    {
-      "id": 2,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Kitty Cluster",
-      "description": "Yay cats!",
-      "location": "Catlandia",
-      "date": "2019-01-31T22:09:00.000Z",
-      "time": "7:00",
-      "attendees": []
-    },
-    {
-      "id": 3,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Puppy Parade",
-      "description": "Yay pups!",
-      "location": "Puptown ",
-      "date": "2019-02-02T23:27:00.000Z",
-      "time": "1:00",
-      "attendees": []
-    },
-    {
-      "id": 1,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Cat Cabaret",
-      "description": "Yay felines!",
-      "location": "Meow Town",
-      "date": "2019-01-03T21:54:00.000Z",
-      "time": "2:00",
-      "attendees": []
-    },
-    {
-      "id": 2,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Kitty Cluster",
-      "description": "Yay cats!",
-      "location": "Catlandia",
-      "date": "2019-01-31T22:09:00.000Z",
-      "time": "7:00",
-      "attendees": []
-    },
-    {
-      "id": 3,
-      "user": {
-        "id": "abc123",
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Puppy Parade",
-      "description": "Yay pups!",
-      "location": "Puptown ",
-      "date": "2019-02-02T23:27:00.000Z",
-      "time": "1:00",
-      "attendees": []
-    },
-    {
-      "id": 6436396,
-      "user": {
-        "id": "abc123",
-        "name": "Igor Tuag"
-      },
-      "category": "nature",
-      "organizer": {
-        "id": "abc123",
-        "name": "Igor Tuag"
-      },
-      "title": "Plant trees",
-      "description": "Planting treen in the forest",
-      "location": "Forest",
-      "date": "",
-      "time": "20:00",
-      "attendees": []
-    },
-    {
-      "id": 4041977,
-      "user": {
-        "id": "abc123",
-        "name": "Igor Tuag"
+        "name": "Tuag"
       },
       "category": "animal welfare",
       "organizer": {
         "id": "abc123",
-        "name": "Igor Tuag"
+        "name": "Tuag"
       },
-      "title": "Eat the bears",
-      "description": "Bad task",
-      "location": "Park",
-      "date": "",
-      "time": "2:00",
-      "attendees": []
+      "title": "Passear com pet",
+      "description": "Levar os animais de estimação para passear",
+      "location": "Praça",
+      "date": "2020-08-26T18:47:00.000Z",
+      "time": "6:00",
+      "attendees": [
+        "Bob Brown",
+        "Maria Red",
+        "Jhon Blue",
+        "Jay Pink",
+        "Jack Black"
+      ]
     },
     {
-      "id": 5447171,
+      "id": 3217140,
       "user": {
         "id": "abc123",
-        "name": "Igor Tuag"
+        "name": "Tuag"
       },
-      "category": "nature",
+      "category": "community",
       "organizer": {
         "id": "abc123",
-        "name": "Igor Tuag"
+        "name": "Tuag"
       },
-      "title": "Test",
-      "description": "Some test",
-      "location": "Somewhere",
-      "date": "",
+      "title": "Reunião com amigos",
+      "description": "Se reunir com os amigos",
+      "location": "Shopping",
+      "date": "2020-08-27T18:52:00.000Z",
       "time": "21:00",
       "attendees": []
     },
     {
-      "id": 3354665,
+      "id": 5928101,
       "user": {
         "id": "abc123",
-        "name": "Igor Tuag"
+        "name": "Adam"
       },
-      "category": "sustainability",
-      "organizer": {
-        "id": "abc123",
-        "name": "Igor Tuag"
-      },
-      "title": "teste",
-      "description": "tes",
-      "location": "tes",
-      "date": "",
-      "time": "20:00",
-      "attendees": []
-    },
-    {
-      "id": 7779101,
-      "user": {
-        "id": "abc123",
-        "name": "Tuag"
-      },
-      "category": "nature",
-      "organizer": {
-        "id": "abc123",
-        "name": "Tuag"
-      },
-      "title": "teste",
-      "description": "teste",
-      "location": "testes",
-      "date": "",
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
       "time": "2:00",
       "attendees": []
     },
     {
-      "id": 2197356,
+      "id": 8419988,
       "user": {
         "id": "abc123",
-        "name": "Tuag"
+        "name": "Adam"
       },
-      "category": "sustainability",
-      "organizer": {
-        "id": "abc123",
-        "name": "Tuag"
-      },
-      "title": "32",
-      "description": "123",
-      "location": "1231",
-      "date": "",
-      "time": "22:00",
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
       "attendees": []
     },
     {
-      "id": 8498118,
+      "id": 4582797,
       "user": {
         "id": "abc123",
-        "name": "Tuag"
+        "name": "Adam"
       },
-      "category": "nature",
-      "organizer": {
-        "id": "abc123",
-        "name": "Tuag"
-      },
-      "title": "success",
-      "description": "",
-      "location": "",
-      "date": "",
-      "time": "",
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
       "attendees": []
     },
     {
-      "id": 9134105,
+      "id": 9236962,
       "user": {
         "id": "abc123",
         "name": "Tuag"
       },
-      "category": "sustainability",
+      "category": "animal welfare",
       "organizer": {
         "id": "abc123",
         "name": "Tuag"
       },
-      "title": "teste",
-      "description": "tset",
-      "location": "tes",
-      "date": "2020-08-05T21:20:00.000Z",
+      "title": "Passear com pet",
+      "description": "Levar os animais de estimação para passear",
+      "location": "Praça",
+      "date": "2020-08-26T18:47:00.000Z",
+      "time": "6:00",
+      "attendees": []
+    },
+    {
+      "id": 3217140,
+      "user": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "title": "Reunião com amigos",
+      "description": "Se reunir com os amigos",
+      "location": "Shopping",
+      "date": "2020-08-27T18:52:00.000Z",
       "time": "21:00",
       "attendees": []
     },
     {
-      "id": 1826041,
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 3215320,
       "user": {
         "id": "abc123",
         "name": "Tuag"
       },
-      "category": "",
+      "category": "housing",
       "organizer": {
         "id": "abc123",
         "name": "Tuag"
       },
-      "title": "",
-      "description": "",
-      "location": "",
-      "date": "",
-      "time": "",
+      "title": "Clean the house",
+      "description": "Cleaning the whole house",
+      "location": "Home",
+      "date": "2020-08-03T19:08:00.000Z",
+      "time": "6:00",
+      "attendees": []
+    },
+    {
+      "id": 6705663,
+      "user": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Tuag"
+      },
+      "title": "Study VueJs",
+      "description": "Study vue by reading the documentation",
+      "location": "Internet",
+      "date": "2020-08-03T19:20:00.000Z",
+      "time": "11:00",
       "attendees": []
     }
   ]
