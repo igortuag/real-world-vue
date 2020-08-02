@@ -45,7 +45,9 @@
         class="field"
       />
 
-      <input type="submit" class="button -fill-gradient" value="Submit" />
+      <BaseButton type="submit" buttonClass="-fill-gradient">
+        Submit
+      </BaseButton>
     </form>
   </div>
 </template>
